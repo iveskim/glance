@@ -28,7 +28,7 @@ INSTALL_REQUIRED = [
     "psutil==5.4.7",
     "requests==2.19.1",
     "six==1.11.0",
-    "validators==0.12.2",
+    "validators==0.12.6",
     "Jinja2==2.10"
 ]
 
