@@ -29,7 +29,7 @@ INSTALL_REQUIRED = [
     "requests==2.19.1",
     "six==1.11.0",
     "validators==0.12.2",
-    "Jinja2==2.10"
+    "Jinja2==2.11.3"
 ]
 
 DEPENDENCY_LINKS = [
